@@ -1,1 +1,4 @@
 hello am anwar pleese forgive me (")
+
+echo "hello world"   ./saif
+mohamed was here
