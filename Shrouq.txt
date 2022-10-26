@@ -3,5 +3,12 @@ Have a Nice Day :)
 ---
 Reema
 However difficult life may seem, there is always something you can do and succeed at..
+<<<<<<< HEAD
 gh
+=======
+
+Good morning Shrouq , Good luck in the Bootcamp !
+A
+
+>>>>>>> 83c3f11f305111515195430aa91af580ac1fd00b
 
